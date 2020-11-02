@@ -1,0 +1,15 @@
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.csprojAssemblyReference.cache
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.QuickEvents.resources
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.csproj.GenerateResource.cache
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.AssemblyInfoInputs.cache
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.AssemblyInfo.cs
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.csproj.CoreCompileInputs.cache
+G:\Open Projects\Teca\QuickEvents\QuickEvents\bin\Debug\netcoreapp3.1\QuickEvents.exe
+G:\Open Projects\Teca\QuickEvents\QuickEvents\bin\Debug\netcoreapp3.1\QuickEvents.deps.json
+G:\Open Projects\Teca\QuickEvents\QuickEvents\bin\Debug\netcoreapp3.1\QuickEvents.runtimeconfig.json
+G:\Open Projects\Teca\QuickEvents\QuickEvents\bin\Debug\netcoreapp3.1\QuickEvents.runtimeconfig.dev.json
+G:\Open Projects\Teca\QuickEvents\QuickEvents\bin\Debug\netcoreapp3.1\QuickEvents.dll
+G:\Open Projects\Teca\QuickEvents\QuickEvents\bin\Debug\netcoreapp3.1\QuickEvents.pdb
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.dll
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.pdb
+G:\Open Projects\Teca\QuickEvents\QuickEvents\obj\Debug\netcoreapp3.1\QuickEvents.genruntimeconfig.cache
